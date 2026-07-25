@@ -309,7 +309,7 @@ Docker was used to containerize the application for consistent deployment across
 Swagger UI
 
 ```
-http://localhost:8000/docs
+[http://127.0.0.1:8000/docs]
 ```
 
 ---
@@ -408,9 +408,9 @@ docker run -p 8000:8000 online-shopper-api
 
 # 👩‍💻 Author
 
-**Yuvalakshmi Karthikeyan**
+**Yuvalakshmi Karthikeyan** 
 
-Machine Learning Engineer | Data Science Enthusiast
+Batch : TN-DS-B02 | Data Science Enthusiast
 
 ---
 
